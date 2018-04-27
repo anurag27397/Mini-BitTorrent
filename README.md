@@ -1,5 +1,7 @@
 # Peer2Peer-Project
 
 How to run:
-javac *.java
+
+javac *.java 
+
 java peerProcess 1006
